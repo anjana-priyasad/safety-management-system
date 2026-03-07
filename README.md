@@ -2,7 +2,7 @@
 
 A comprehensive, modern web application built for managing Occupational Health and Safety operations in workplaces, factories, and construction sites. Built with React, Tailwind CSS, and Supabase.
 
-![Dashboard Preview](./screenshots/dashboard.png)
+![Dashboard Preview](./screenshots/Dashboard.png)
 
 ## ✨ Key Features
 
