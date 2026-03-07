@@ -2,7 +2,7 @@
 
 A comprehensive, modern web application built for managing Occupational Health and Safety operations in workplaces, factories, and construction sites. Built with React, Tailwind CSS, and Supabase.
 
-| ![Dashboard Preview](./screenshots/dashboard.png)
+![Dashboard Preview](./screenshots/dashboard.png)
 
 ## ✨ Key Features
 
@@ -17,8 +17,7 @@ A comprehensive, modern web application built for managing Occupational Health a
 
 | Incidents Tracker | Real-time Chat |
 | :---: | :---: |
-| ![Incidents](./screenshots/Incidents.png) | 
-| ![Chat](./screenshots/Chat.png) |
+| ![Incidents](./screenshots/Incidents.png) | ![Chat](./screenshots/Chat.png) |
 
 | Team Management | User Profile |
 | :---: | :---: |
@@ -77,12 +76,13 @@ Looking for a customized version of this OHS Management System tailored specific
 * Secure cloud deployment and database management.
 * White-labeling the application with your company branding.
 
+
 📫 **Get in touch:**
 * **Website:** [wikendy.com](https://wikendy.com)
 * **Contact:** Drop a message via GitHub or through our website!
-* **Developer Contact:** [Linkedin](www.linkedin.com/in/anjanapriyasad)
+* **Developer Contact:** [LinkedIn](https://www.linkedin.com/in/anjanapriyasad)
 * **Freelance:** [Upwork](https://www.upwork.com/freelancers/priyasad)
-**Email:** [anjanapriyasad@yahoo.com]
+* **Email:** anjanapriyasad@yahoo.com
 
 ## 📄 License
 
